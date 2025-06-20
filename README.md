@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm An Nguyen
 
-### 🚀 Software Engineer | Full-Stack Developer | Product Builder
+### 🚀 Software Engineer
 
 *Crafting elegant code and user-centric experiences at the intersection of technology and design*
 

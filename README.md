@@ -14,10 +14,10 @@
 
 ## 🎯 About Me
 
-- 💼 Building impactful digital experiences through thoughtful engineering
-- 🌱 Constantly learning and exploring new technologies
-- 🎨 Passionate about bridging technical execution with product vision
-- 📱 Check out my portfolio: **[annguyendev.software](https://annguyendev.software/)**
+💼 Building impactful digital experiences through thoughtful engineering
+🌱 Constantly learning and exploring new technologies
+🎨 Passionate about bridging technical execution with product vision
+📱 Check out my portfolio: **[annguyendev.software](https://annguyendev.software/)**
 
 ---
 

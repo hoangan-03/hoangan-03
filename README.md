@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm An Nguyen
+# 👋 Hi, I'm An (John) Nguyen
 
 ### 🚀 Software Engineer | Fullstack Developer | IT Consultant | Computer Science Professional
 
@@ -63,6 +63,9 @@
 ![AWS S3](https://img.shields.io/badge/-AWS%20S3-569A31?style=flat-square&logo=Amazon%20S3&logoColor=white)
 ![AWS Lambda](https://img.shields.io/badge/-AWS%20Lambda-F99900?style=flat-square&logo=AWS%20Lambda&logoColor=white)
 ![AWS Amplify](https://img.shields.io/badge/-AWS%20Amplify-FF9900?style=flat-square&logo=AWS%20Amplify&logoColor=white)
+![AWS EC2](https://img.shields.io/badge/-AWS%20EC2-FF9900?style=flat-square&logo=Amazon%20EC2&logoColor=white)
+![Amazon RDS](https://img.shields.io/badge/-Amazon%20RDS-0073BB?style=flat-square&logo=Amazon%20RDS&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
@@ -99,5 +102,5 @@
 ---
 
 <div align="center">
-  <i>⚡ "Code is like humor. When you have to explain it, it's bad." ⚡</i>
+  <i>⚡ "Learning to code is a great way to learn how to think" ⚡</i>
 </div>

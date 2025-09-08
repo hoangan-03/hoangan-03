@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm An (John) Nguyen
 
-### 🚀 Software Engineer | Fullstack Developer | IT Consultant | Computer Science Professional
+### 🚀 IT Consultant | Software Engineer | Fullstack Developer | Computer Science Professional
 
 *Crafting elegant code and user-centric experiences at the intersection of technology and design*
 

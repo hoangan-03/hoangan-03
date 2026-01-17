@@ -1,8 +1,8 @@
 <div align="center">
 
-# 👋 Hi, I'm An (John) Nguyen
+# 👋 Hi, I'm An Nguyen
 
-### 🚀 IT Consultant | Software Engineer | Fullstack Developer | Computer Science Professional
+### 🚀 IT Consultant | Software Engineer | Computer Science Professional
 
 *Crafting elegant code and user-centric experiences at the intersection of technology and design*
 
